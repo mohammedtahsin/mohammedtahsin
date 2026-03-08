@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Mohammed Tahsin 👋
 
-<!--
-**mohammedtahsin/mohammedtahsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student – AI & Robotics  
+🤖 Interested in Artificial Intelligence, Robotics, and Automation  
+💡 Passionate about building intelligent systems and learning new technologies  
 
-Here are some ideas to get you started:
+## 🛠 Skills & Technologies
+- Python
+- C++
+- Java
+- Machine Learning
+- Artificial Intelligence
+- Robotics
+- Proteus
+- AutoCAD
+- SolidWorks
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+🔹 Smart Line Following Robot  
+Built using Arduino and IR sensors for autonomous navigation.
+
+🔹 AI Chatbot  
+A simple chatbot built using Python and NLP.
+
+🔹 Video Streaming Buffer Optimization  
+Project focused on optimizing OS buffer memory for smoother video streaming.
+
+## 📚 Currently Learning
+- Machine Learning
+- Artificial Intelligence
+- Robotics Programming
+- ROS (Robot Operating System)
+
+## 🌐 Connect With Me
+- LinkedIn: (add your LinkedIn link here)
+
+⚡ Fun fact: I enjoy boxing, drawing, and watching anime.
